@@ -8,4 +8,13 @@ Links para as aplicações no CodePen:
 Minecraft Table in Hiro Marker: https://codepen.io/D4r4S/full/QWyPeQq
 Pokeball in Pokémon TCG Card: https://codepen.io/D4r4S/full/yLewYvo
 
-## Uso dos materiais referentes as marcas Pokémon e Minecraft apenas para fins de estudo, modelos foram baixados em sites de modelos 3D grátis e o marcador de carta do Pokémon TCG foi adquirida por mim e sendo usada para esse projeto para fins de adquirir conhecimento na área.
+## Disclaimer
+
+Não possuo direito sobre os modelos e imagens utilizadas, todos os recursos utilizados e a aplicação são para fins educaionais.
+© 2020 Pokémon. © 1995–2020 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon, os nomes dos personagens Pokémon, Nintendo Switch, Nintendo 3DS, Nintendo DS, Wii, Wii U e WiiWare são marcas da Nintendo.
+Demais marcas são propriedade de seus respectivos donos.
+Mojang © 2009-2020. "Minecraft" é uma marca registrada de Mojang Synergies AB.
+
+I have no right over the models and images used, all the resources used and the application are for educational purposes.
+© 2020 Pokémon. © 1995–2020 Nintendo/Creatures Inc./GAME FREAK inc. Pokémon, Pokémon character names, Nintendo Switch, Nintendo 3DS, Nintendo DS, Wii, Wii U, and WiiWare are trademarks of Nintendo, Other trademarks are the property of their respective owners.
+Mojang © 2009-2020. "Minecraft" é uma marca registrada de Mojang Synergies AB.
